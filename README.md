@@ -8,8 +8,8 @@ REEMPLAZA:
 -->
 
 <div align="center">
-  <h1>👋 Hola, soy <strong>TU_NOMBRE</strong></h1>
-  <p><em>TU_ROL · CIUDAD, PAÍS</em></p>
+  <h1>👋 Hola, soy <strong>Arpe Docet</strong></h1>
+  <p><em>Senior Full‑Stack Developer · MX</em></p>
 
   <!-- Badges de contacto -->
   <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
@@ -23,9 +23,9 @@ REEMPLAZA:
   </a>
 
   <!-- Badges de métricas sociales -->
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Vistas&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/USERNAME?style=flat&label=Seguidores" alt="followers" />
-  <img src="https://img.shields.io/github/stars/USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=ArpeDeveloper&label=Vistas&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ArpeDeveloper?style=flat&label=Seguidores" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ArpeDeveloper?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars" alt="stars" />
 </div>
 
 ---
@@ -57,11 +57,11 @@ REEMPLAZA:
 
 ### 📌 Proyectos Destacados
 <!-- Repite este bloque para cada repo que quieras resaltar -->
-<a href="https://github.com/USERNAME/REPO_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_1&theme=transparent&hide_border=true" />
+<a href="https://github.com/ArpeDeveloper/REPO_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpeDeveloper&repo=REPO_1&theme=transparent&hide_border=true" />
 </a>
-<a href="https://github.com/USERNAME/REPO_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_2&theme=transparent&hide_border=true" />
+<a href="https://github.com/ArpeDeveloper/REPO_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpeDeveloper&repo=REPO_2&theme=transparent&hide_border=true" />
 </a>
 
 ---
@@ -71,19 +71,19 @@ REEMPLAZA:
 
 <!-- Stats generales -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-  alt="GitHub Stats de USERNAME"
+  src="https://github-readme-stats.vercel.app/api?username=ArpeDeveloper&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+  alt="GitHub Stats de ArpeDeveloper"
 />
 
 <!-- Lenguajes más usados -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpeDeveloper&layout=compact&theme=transparent&hide_border=true"
   alt="Top Languages"
 />
 
 <!-- Racha de contribuciones -->
 <img
-  src="https://streak-stats.demolab.com/?user=USERNAME&theme=transparent&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=ArpeDeveloper&theme=transparent&hide_border=true"
   alt="GitHub Streak"
 />
 
@@ -93,7 +93,7 @@ REEMPLAZA:
 
 ### 🏆 Trofeos
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpeDeveloper&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1" alt="trophies" />
 </div>
 
 ---
@@ -101,15 +101,15 @@ REEMPLAZA:
 ### 📈 Actividad reciente
 <!-- Gráfico de actividad (requiere servicio externo) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpeDeveloper&theme=github-compact&hide_border=true" alt="activity-graph" />
 </div>
 
 ---
 
 ### 🤝 Conecta conmigo
-- 💼 LinkedIn: **[tu-linkedin](https://www.linkedin.com/in/tu-linkedin)**
-- 🌐 Sitio web: **[tusitio.dev](https://tusitio.dev)**
-- ✉️ Email: **tuemail@dominio.com**
+- 💼 LinkedIn: **[tu-linkedin](https://www.linkedin.com/in/jesusross)**
+- 🌐 Insta: **[tusitio.dev]([https://tusitio.dev](https://www.instagram.com/arpedocet))**
+# - ✉️ Email: **tuemail@dominio.com**
 
 <!--
 NOTAS:
