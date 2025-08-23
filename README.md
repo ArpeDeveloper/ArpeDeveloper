@@ -51,8 +51,8 @@ REEMPLAZA:
 
 ---
 
-<!-- ### 📌 Proyectos Destacados
 <!-- Repite este bloque para cada repo que quieras resaltar -->
+<!-- ### 📌 Proyectos Destacados
 <a href="https://github.com/ArpeDeveloper/REPO_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpeDeveloper&repo=REPO_1&theme=transparent&hide_border=true" />
 </a>
