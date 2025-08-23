@@ -67,7 +67,7 @@ Apasionado por crear soluciones con **impacto real**, uniendo un backend sólido
 ## 🏆 Logros & Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpedeveloper&theme=onestar&no-frame=true&margin-w=10&margin-h=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpeDeveloper&theme=onestar&no-frame=true&margin-w=10&margin-h=10" alt="trophies" />
 </div>
 
 ---
