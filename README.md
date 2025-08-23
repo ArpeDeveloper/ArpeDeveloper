@@ -12,15 +12,15 @@ REEMPLAZA:
   <p><em>Senior Full‑Stack Developer · MX</em></p>
 
   <!-- Badges de contacto -->
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/jesusross" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@dominio.com">
+  <!-- <a href="mailto:tuemail@dominio.com">
     <img src="https://img.shields.io/badge/Email-8B89CC?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://tusitio.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-111?logo=vercel&logoColor=white" alt="Portafolio" />
-  </a>
+  </a> -->
 
   <!-- Badges de métricas sociales -->
   <img src="https://komarev.com/ghpvc/?username=ArpeDeveloper&label=Vistas&style=flat" alt="profile views" />
@@ -31,27 +31,23 @@ REEMPLAZA:
 ---
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente trabajo en: **(proyecto/empresa)**  
-- 🌱 Aprendiendo: **(tecnologías/temas)**  
+- 🔭 Actualmente trabajo en: **Ampper**  
+- 🌱 Aprendiendo: **NestJS - Automatizaciones**  
 - 🤝 Abierto a: **colaboraciones y freelance**  
-- 💬 Pregúntame sobre: **backend, DevOps, arquitectura, testing**  
-- ⚡ Fun fact: **(algo breve y humano)**
+- 💬 Pregúntame sobre: **backend, frontend, web**  
+- ⚡ Fun fact: **Me gusta conocer nuevos lugares**
 
 ---
 
 ### 🧰 Tech Stack
 <!-- Ajusta y ordena a tu gusto -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Php](https://img.shields.io/badge/Php.js-339933?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel.js-339933?logo=larave&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript.js-339933?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 
 ---
 
@@ -108,8 +104,8 @@ REEMPLAZA:
 
 ### 🤝 Conecta conmigo
 - 💼 LinkedIn: **[tu-linkedin](https://www.linkedin.com/in/jesusross)**
-- 🌐 Insta: **[tusitio.dev]([https://tusitio.dev](https://www.instagram.com/arpedocet))**
-# - ✉️ Email: **tuemail@dominio.com**
+- 🌐 Insta: **[instagram/arpedocet]([https://tusitio.dev](https://www.instagram.com/arpedocet))**
+<!-- - ✉️ Email: **tuemail@dominio.com** -->
 
 <!--
 NOTAS:
