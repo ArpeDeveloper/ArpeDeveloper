@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Arpe Docet
+# 👋 Hola, soy Arpe Docet
 ### 🚀 Sr. Full Stack Developer
 
-<em>“Creo en el poder del software para transformar ciudades, negocios y personas.
-Mi misión: crear tecnología accesible, escalable y con propósito.”</em>
+<em>“El código es la herramienta para transformar el mundo,
+pero el sentido de vivir trasciende la tecnología.
+Sueño con construir una comunidad unida,
+que sea la punta de lanza tecnológica de nuestra región”</em>
 
 ---
 
