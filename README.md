@@ -51,7 +51,7 @@ REEMPLAZA:
 
 ---
 
-### 📌 Proyectos Destacados
+<!-- ### 📌 Proyectos Destacados
 <!-- Repite este bloque para cada repo que quieras resaltar -->
 <a href="https://github.com/ArpeDeveloper/REPO_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpeDeveloper&repo=REPO_1&theme=transparent&hide_border=true" />
@@ -59,6 +59,7 @@ REEMPLAZA:
 <a href="https://github.com/ArpeDeveloper/REPO_2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpeDeveloper&repo=REPO_2&theme=transparent&hide_border=true" />
 </a>
+-->
 
 ---
 
@@ -86,12 +87,12 @@ REEMPLAZA:
 </div>
 
 ---
-
+<!--
 ### 🏆 Trofeos
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArpeDeveloper&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1" alt="trophies" />
 </div>
-
+-->
 ---
 
 ### 📈 Actividad reciente
