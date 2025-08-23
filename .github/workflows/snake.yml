@@ -2,15 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # corre diario 06:00 UTC
+    - cron: "0 6 * * *"   # diario 06:00 UTC
   workflow_dispatch:
+
+# Asegura permisos de escritura para el token
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # usamos el token explícito en el push
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
@@ -20,10 +26,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          # Si tu repo fuerza GPG o firma, añade: fqdn: github.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Confirm files
+        run: ls -la dist
