@@ -44,10 +44,12 @@ Apasionado por crear soluciones con **impacto real**, uniendo un backend sólido
 ## 🕒 Línea del tiempo profesional
 
 ```text
-2025 ── 🚀 Sr. Full Stack Developer, proyectos de alto impacto social
-2023 ── 🛠️ Desarrollo en la nube (AWS), Laravel, React, Vue, TypeScript
-2021 ── 🌍 Geoportal Mérida y otros sistemas web (sector público)
-2019 ── 💡 Inicios como Full Stack, primeros proyectos profesionales
+2024 ── 🚀 Sr. Full Stack Developer · Ammper (AWS, TypeScript, React, Next.js)  
+2023 ── 🛠️ Full Stack Developer · AdCentral (Java / Kotlin, multiplataforma)  
+2021 ── 🌍 Full Stack Developer · Trx-Global Logistics (apps web logísticas)  
+2019 ── 💡 Líder de Proyectos · Ayuntamiento de Mérida (Geoportal Mérida, sistemas geoespaciales)  
+2016 ── 🔧 Freelancer · Desarrollo web con Laravel, Slim, Phalcon, Vue, NestJs
+2015 ── 🎓 Primeros pasos en desarrollo web (PHP, MySQL, jQuery) 
 ```
 
 ---
