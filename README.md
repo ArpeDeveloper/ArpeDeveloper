@@ -34,15 +34,6 @@ Apasionado por crear soluciones con **impacto real**, uniendo un backend sólido
 
 ---
 
-## 📌 Proyectos profesionales
-
-**Geoportal Mérida** — Plataforma de mapas interactivos para el Ayuntamiento de Mérida.  
-🔗 https://geoportal.merida.gob.mx
-
-**Mantenimiento y mejora de sistemas web** — Optimización, modernización de arquitectura y enfoque en **rendimiento, seguridad y escalabilidad**.
-
----
-
 ## 🕒 Línea del tiempo profesional
 
 ```text
