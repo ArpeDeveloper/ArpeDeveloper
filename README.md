@@ -95,6 +95,9 @@ Apasionado por crear soluciones con **impacto real**, uniendo un backend sólido
 <a href="https://youtube.com/@arpedocet">
   <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
 </a>
+<a href="https://www.udemy.com/user/jesus-ross-ammper/">
+  <img src="https://img.shields.io/badge/Udemy-f3efff?logo=udemy&logoColor=white" alt="YouTube" />
+</a>
 
 </div>
 
